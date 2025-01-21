@@ -7,4 +7,3 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate on Machine Learning and Python projects
 - 💬 Ask me about my rates for your specific project
-- 📫 How to reach me: florentchaillie@gmail.com
